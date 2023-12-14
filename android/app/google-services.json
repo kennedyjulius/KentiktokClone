@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "16774339323",
+    "project_id": "kentiktokclone",
+    "storage_bucket": "kentiktokclone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16774339323:android:b601676d3cb1b52e4fee5e",
+        "android_client_info": {
+          "package_name": "com.example.kentiktok_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFe5hV0R6yQYZzmsChy900jgarnMh98ns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+
+      
+    }
+  ],
+  "configuration_version": "1"
+}
