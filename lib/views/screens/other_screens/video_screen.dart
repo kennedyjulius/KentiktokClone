@@ -161,7 +161,8 @@ class VideoScreen extends StatelessWidget {
                                 InkWell(
                                   onTap: () => Navigator.of(context).push(
                                     MaterialPageRoute(builder: (context) => 
-                                    CommentScreen(),)),
+                                    CommentScreen(id: data.id,)
+                                    ,)),
                                   child: Icon(
                                     Icons.comment,
                                     size: 40,
